@@ -43,8 +43,8 @@ Welcome to my GitHub portfolio! I’m passionate about cybersecurity, ethical ha
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](#) *(Add your LinkedIn profile link)*
-- [Email](mailto:#) *(Add your email address)*
+- [LinkedIn](https://www.linkedin.com/in/mahmoudahmed005)
+- [Email](mailto:mahmoudahmedam205@gmail.com)
 
 ---
 
